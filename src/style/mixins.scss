@@ -1,0 +1,5 @@
+@mixin base-border {
+  border-width: $base-border-width;
+  border-color: $base-border-color;
+  border-radius: $base-border-radius;
+}
